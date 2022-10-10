@@ -3,9 +3,9 @@
 
 <template>
     <div>
-        <div class="bg-black">
-            <div class="grid grid-cols-1 place-items-center m-32">
-                <div class="text-2xl font-bold text-white mt-32">
+        <div class="bg-black pt-20 pb-20">
+            <div class="grid grid-cols-1 place-items-center">
+                <div class="text-2xl font-bold text-white">
                 Services
                 </div>
                 <span class="text-red-500">--what i provide--</span>
