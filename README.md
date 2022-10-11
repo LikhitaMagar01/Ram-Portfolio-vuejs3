@@ -15,7 +15,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 #tailwind installation in vue project
 #npm install -D tailwindcss postcss autoprefixer
 #npx tailwindcss init -p
-#intailwind.config.cjs file
+#in tailwind.config.cjs file
 #insert inside content: [
     "./index.html",
     "./src/**/*.{vue,js,ts,jsx,tsx}",
